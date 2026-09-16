@@ -5,7 +5,7 @@ A modern, responsive, and user-friendly dental care website designed to provide 
 
 ## 🌐 Live Website
 
-(https://GURNOOR20010.github.io/Gurnoor-Dental-Care/)
+gurnoor-dental-care-vnl2.vercel.app
 
 ## 📖 About The Project
 
