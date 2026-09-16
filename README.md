@@ -4,8 +4,7 @@
 A modern, responsive, and user-friendly dental care website designed to provide information about dental services, treatments, and appointment facilities.
 
 ## 🌐 Live Website
-
-gurnoor-dental-care-vnl2-7raauxvrc-gurnoor3.vercel.app
+(https://gurnoor-dental-care-vnl2.vercel.app/)
 
 ## 📖 About The Project
 
